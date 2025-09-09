@@ -13,12 +13,12 @@ A one-click **OCI Resource Manager** (ORM) stack that prepares identity and guar
 ## Deploy with One Click
 
 [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](
-  https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/<your-username>/<your-repo>/archive/refs/tags/v1.0.0.zip
+  https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/SaurabhOCI/GenAI-Text-Visual-Sandbox/archive/refs/tags/GenAI-Text-Visual-Sandbox.zip
 )
 
 **Alternative (no tag yet):**
 ```
-https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/<your-username>/<your-repo>/archive/refs/heads/main.zip
+https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/SaurabhOCI/GenAI-Text-Visual-Sandbox/archive/refs/tags/GenAI-Text-Visual-Sandbox.zip
 ```
 
 > Tip: Open your `zipUrl` in an **incognito** window—the link must download a `.zip` with no login prompt. Make sure your `.tf` files are committed at the **repo root** of that tag/branch.
